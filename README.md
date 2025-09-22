@@ -7,16 +7,17 @@
 ---
 
 ### 🛠️ Skills & Tools  
-- **Languages:** Python, SQL, C/C++  
+- **Languages:** Python, SQL  
 - **Learning:** scikit-learn, TensorFlow (basics), Pandas, NumPy, Matplotlib  
 - **Others:** Git & GitHub, Jupyter Notebook  
 
 ---
 
-### 🌱 I’m Currently Learning  
-- Python & Data Structures  
-- Machine Learning Basics  
-- Git & GitHub  
+- 🐍 **Python for Machine Learning**  
+- 🧠 **Feature Engineering & Data Preprocessing**  
+- 🚀 **Model Deployment using Streamlit / FastAPI**  
+- 🗄️ **SQL & Data Engineering Basics**  
+- 📝 **Git & GitHub**
 
 ---
 
